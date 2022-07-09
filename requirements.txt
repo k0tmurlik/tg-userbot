@@ -1,0 +1,6 @@
+Pyrogram
+asyncio
+async-timeout
+psutil
+py-cpuinfo
+uptime
